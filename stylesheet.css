@@ -1,0 +1,21 @@
+section {
+    overflow: hidden;
+    width: 200px;
+    margin: 0 auto;
+  }
+  
+  span {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+  }
+  
+  div {
+    width: 100px;
+    height: 100px;
+    background: red;
+  }
+  
+  button {
+    cursor: pointer;
+  } 
